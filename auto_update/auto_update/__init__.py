@@ -1,6 +1,5 @@
-import randoms
-
+import random
 
 import another_bad_import
-
-import random
+import frappe
+import randoms
